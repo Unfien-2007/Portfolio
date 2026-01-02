@@ -1,0 +1,31 @@
+* {
+    text-align: center;
+    margin: 6px;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(139, 245, 245);     
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(139, 245, 245);
+    color: rgb(17, 3, 3);
+    text-align: center;
+    padding: 10px 0;
+}
+nav {
+    background-color: rgb(139, 245, 245);
+    color: rgb(17, 3, 3);
+    padding: 15px 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+form {
+    background-color: rgb(139, 245, 245);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    margin-top: 50px;
+}
