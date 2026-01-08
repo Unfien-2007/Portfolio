@@ -1,6 +1,37 @@
 * {
-
-
-
-    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.button {
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+    transition: background-color 0.3s, color 0.3s, border 0.3s;
+}
+.button1 {
+    background-color: #007bff;
+    color: white;
+    border: none;
+}
+.button1:hover {
+    background-color: #dc1f1f;
+}
+.button2 {
+    background-color: #1a89eb;
+    color: white;
+    border: none;
+}
+.button2:hover {
+    background-color: #bc382e;
+}
+.button3 {
+    background-color: #007bff;
+    color: #ffffff;
+    border: none;
+}
+.button3:hover {
+    background-color: #b02323;
 }
