@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: blue;
+    align-content: center;
+}
+img {
+    max-width: 100%;
+    display: block;
+}
